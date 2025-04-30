@@ -94,6 +94,10 @@ This tool is for educational and testing purposes only. It does **not** store or
 
   This project is open-source and free to use under the [MIT License](LICENSE).
 
+  ---
+
+  > I've made a [Live Demo](https://password-cheacker.vercel.app/) if you want to try it online
+
 
 
 
