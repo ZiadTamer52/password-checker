@@ -1,5 +1,8 @@
 # 🔐 Password Strength Checker
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Python Version](https://img.shields.io/badge/python-3.x-blue)
+
 A terminal-based password strength checker built with Python. It analyzes the strength of a password, provides improvement tips, and estimates how long it would take to crack it using brute-force attacks.
 
 ---
