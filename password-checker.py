@@ -1,3 +1,9 @@
+'''
+# Password Checker #
+## Aouther: Ziad Tamer #
+## Date: 2025-5-1 ##
+## Description: This script checks the strength of a password and estimates the time it would take to crack it using brute force. It provides feedback on the password's strength and suggestions for improvement. The script uses regular expressions to check for various character types and calculates the number of possible combinations based on the length and character set used. ##
+'''
 import re
 import getpass
 import math
